@@ -22,3 +22,7 @@
 ### Software configuration
 - [ ] Configure `sudo` following stricts rules
 - [ ] Configure `UFW` to leave only port `4242` open
+
+## Usefull links
+- https://github.com/hanshazairi/42-born2beroot
+- https://github.com/david-oren/19/tree/master/born2beroot
